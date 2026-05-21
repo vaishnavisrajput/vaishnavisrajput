@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vaishnavisrajput
-- 👀 I’m interested in Frontend Development & Designing.
-- 🌱 I’m currently learning Web Development.
+- 💼 Software Developer at Akssai ProjExel
+- 🛠️ React, React Native, TypeScript, Javascript
+- 🌱 Currently learning and exploring new tech
 - 📫 How to reach me vaishnavirajput981@gmail.com
 - 👨‍💻 Check out my projects at - https://github.com/vaishnavisrajput
 <!---
